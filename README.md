@@ -1,4 +1,4 @@
-﻿# SYNTECXHUB_Product-Catelog
+﻿# Product-Catelog
 
  # 🛍️ Product Catalog Management System
 
